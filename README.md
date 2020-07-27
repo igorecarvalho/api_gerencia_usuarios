@@ -4,21 +4,27 @@ Esta é um sistema em desenvolvimento construida com o proposito de desenvolver 
 Este sistema consiste em:
 #### Criação de uma tabela Cargos:
 - [x] Implementação de inserção;
+- [x] Implementação de listagem de cargos;
+- [x] Implementação de exclusão;
 - [x] Implementação de edição;
 - -- Porem a edição nao é atualizada no banco de dados.
-- [x] Implementação de exclusão;
+
 
 #### Criação de uma tabela Perfis:
 - [x] Implementação de inserção;
+- [x] Implementação de listagem de perfis;
+- [x] Implementação de exclusão;
 - [x] Implementação de edição;
 - -- Porem a edição nao é atualizada no banco de dados.
-- [x] Implementação de exclusão;
+
 
 #### Criação de uma tabela Usuários:
 - [x] Implementação de inserção;
+- [x] Implementação de listagem de usuários;
+- [x] Implementação de exclusão;
 - [x] Implementação de edição;
 - -- Porem a edição nao é atualizada no banco de dados.
-- [x] Implementação de exclusão;
+
 
 #### Listemos alguns pontos na implementação:
 - É possivel a inserção de usuários com campos em branco;
@@ -27,7 +33,7 @@ Este sistema consiste em:
 
 ### Para importação do sistema
 - Faça o **clone** deste repositório;
-- No eclipse vai em:
+
 **Importar -> Maven -> Existing Maven Project**;
 - Selecione a pasta deste repositório e **Finish**.
 
