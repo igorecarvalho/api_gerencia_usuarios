@@ -33,7 +33,7 @@ Este sistema consiste em:
 
 ### Para importação do sistema
 - Faça o **clone** deste repositório;
-
+- Utilziando **Eclipse IDE for JEE**
 **Importar -> Maven -> Existing Maven Project**;
 - Selecione a pasta deste repositório e **Finish**.
 
