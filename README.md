@@ -1,4 +1,4 @@
-# API de Gerenciamento de Usuários
+# Sistema de Gerenciamento de Usuários
 
 Esta é um sistema em desenvolvimento construida com o proposito de desenvolver uma aplicação de controle de gerenciamento de usuarios. O sistema trata-de um projeto com base **Maven**, **SringBoot** para realização de persistencias e interface com banco de dados **MySQL**. No frontend foi utilizado o **HTML**, **Thymeleaf** e o **CSS Materializa**.
 Este sistema consiste em:
